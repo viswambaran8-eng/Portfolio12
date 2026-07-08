@@ -23,7 +23,7 @@ import React, { useState } from 'react';
       <section className="px-6 py-5 md:px-10 lg:px-20 flex-grow flex items-center">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-start w-full max-w-[1400px] mx-auto">
           
-          {/* Left Side Content */}
+        
           <div className="flex flex-col justify-center h-full">
             <div className="flex items-center gap-2 text-sm font-semibold uppercase tracking-wider text-gray-600 mb-2">
               <span className="w-6 h-[2px] bg-gray-600"></span>
