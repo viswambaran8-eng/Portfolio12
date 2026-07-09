@@ -6,10 +6,10 @@ function Hero() {
     <section className="min-h-[85vh] bg-[#FAF6F3] flex items-center px-6 md:px-8 py-12 overflow-hidden relative">
       <div className="max-w-7xl mx-auto w-full grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
         
-        {/* Left Column: Text & Content */}
+       
         <div className="lg:col-span-7 flex flex-col justify-center space-y-6 z-10 items-center text-center lg:items-start lg:text-left">
          
-          {/* Portfolio Label Line */}
+         
           <div className="flex items-center space-x-2 text-gray-800">
             <span className="w-6 h-[2px] bg-gray-800 inline-block"></span>
             <span className="font-medium text-sm tracking-wider uppercase">Portfolio</span>

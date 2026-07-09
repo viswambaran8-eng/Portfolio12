@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
-import Profile from "../assets/profile.png";
-import Profile2 from "../assets/profile2.png";
+import Profile from "../assets/Profile.png";
+import Profile2 from "../assets/Profile2.png";
 
 const testimonials = [
   {

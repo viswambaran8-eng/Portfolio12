@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Analytics from '../assets/analytics.png';
+import Analytics from '../assets/Analytics.png';
 
 const services = [
   {
