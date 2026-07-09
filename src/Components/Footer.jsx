@@ -190,7 +190,7 @@ function ContactAndFooter() {
               className="hover:text-black transition-colors text-sm"
               aria-label="Instagram"
             >
-              <img src={Instagram} alt="Facebook" className="w-5 h-5" />
+              <img src={Insta} alt="Facebook" className="w-5 h-5" />
             </a>
           </div>
         </div>
