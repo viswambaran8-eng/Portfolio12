@@ -1,11 +1,11 @@
 import React from 'react';
 
-import Image1 from '../assets/img1.png'
-import Image2 from '../assets/img2.png'
-import Image3 from '../assets/img3.png'
-import Image4 from '../assets/img4.png'
-import Image5 from '../assets/img5.png'
-import Image6 from '../assets/img6.png'
+import Image1 from '../assets/IMG1.png'
+import Image2 from '../assets/IMG2.png'
+import Image3 from '../assets/IMG3.png'
+import Image4 from '../assets/IMG4.png'
+import Image5 from '../assets/IMG5.png'
+import Image6 from '../assets/IMG6.png'
 
 
 const projects = [
